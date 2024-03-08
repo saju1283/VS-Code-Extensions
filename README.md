@@ -22,23 +22,23 @@
 
 > Note: If you don't want to install the extensions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extention which will also install all of those plugins as well.
 
-| SL No: |Extension                                    |Objective                                                    |
-| ------ | ------------------------------------------- |------------------------------------------------------------ |
-| 1      | PHP Intelephense                            |                                                             |
+| SL No: |Extension                                    |Objective                                                     |
+| ------ | ------------------------------------------- |------------------------------------------------------------  |
+| 1      | PHP Intelephense                            |                                                              |
 | 2      | PHP DocBlocker                              |
 | 3      | PHP Namespace Resolver                      |
-| 4      | Laravel Blade Snippets                      | Provides snippets and syntax highlightingfor blade templates|
-| 5      | Laravel Snippets                            | 
-| 6      | Laravel Artisan                             |
-| 7      | Laravel Extra Intellisense                  |
-| 8      | Laravel goto view                           |
+| 4      | Laravel Blade Snippets                      | Provides snippets and syntax highlightingfor blade templates |
+| 5      | Laravel Snippets                            | Provides snippets for Laravel                                |
+| 6      | Laravel Artisan                             | Run Laravel Artisan commands                                 |
+| 7      | Laravel Extra Intellisense                  | Provides IntelliSense for Laravel                            |
+| 8      | Laravel goto view                           | Quick jump to Laravel blade view files                       |
 | 9      | Laravel Blade Spacer                        |
 | 10     | laravel-jump-controller                     |
-| 11     | laravel-goto-components                     |
-| 12     | Laravel Blade formatter                     |
-| 13     | Laravel Create View                         |
-| 14     | Laravel Blade Wrapper                       |
-| 15     | DotENV                                      |
+| 11     | laravel-goto-components                     | Quick jump to Laravel components                             |
+| 12     | Laravel Blade formatter                     | Opinionated Blade file formatter                             |
+| 13     | Laravel Create View                         | Create Laravel view using dot notation                       |
+| 14     | Laravel Blade Wrapper                       | Wrap Blade directives                                        |
+| 15     | DotENV                                      | Syntax highlighting for .env files                           |
 | 16     | ES Lint                                     |
 | 17     | MySQL - Database Client - Weijan Chen       |
 
