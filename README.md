@@ -18,6 +18,7 @@
 | 12     | Theme: "Night Owl" ( Or Any theme you like) |
 | 13     | Bracket Pair Colorizer 2 - CoenraadS        | colorizes matching opening and closing brackets |
 | 14     | Snipped - Jefferson Licet                   | Code Screenshots                                |
+| 15     | HTML CSS Support                            |                                                 |
 
 
 **For PHP and Laravel**
