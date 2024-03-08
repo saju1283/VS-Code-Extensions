@@ -2,7 +2,7 @@
 
 
 
-| SL No: | Plugins                                     | Objective                                 |
+| SL No: | Extension                                   | Objective                                 |
 | ------ | ------------------------------------------- |-------------------------------------------|
 | 1      | Prettier – Code formatter                   |                                           |
 | 2      | Live Server                                 |
