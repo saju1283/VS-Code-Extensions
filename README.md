@@ -26,3 +26,9 @@
 | 20     | Material Icon Theme for Icons               |
 | 21     | Prettier - Code formatter                   |
 | 22     | MySQL - Database Client - Weijan Chen       |
+
+> ### Fonts for Developers:
+
+1. Operator Mono (Download Link: https://github.com/keyding/Operator-Mono/archive/refs/heads/master.zip )
+2. Fira Code ( Download Link: https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip )
+3. Dank Mono
