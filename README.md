@@ -15,6 +15,7 @@
 | 9      | Codesnap                                    |
 | 10     | Tabnine                                     |
 | 11     | Theme: "Night Owl" ( Or Any theme you like) |
+| 12     | Bracket Pair Colorizer 2 - CoenraadS        | colorizes matching opening and closing brackets |
 
 
 **For PHP and Laravel**
