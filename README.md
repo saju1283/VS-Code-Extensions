@@ -11,12 +11,13 @@
 | 5      | Auto tag rename                             |
 | 6      | Beautify                                    |
 | 7      | Material Icon                               |
-| 8      | Php Intelligence                            |
-| 9      | Codesnap                                    |
-| 10     | Tabnine                                     |
-| 11     | Theme: "Night Owl" ( Or Any theme you like) |
-| 12     | Bracket Pair Colorizer 2 - CoenraadS        | colorizes matching opening and closing brackets |
-| 13     | Snipped - Jefferson Licet                   | Code Screenshots                                |
+| 8      | vscode-icons 
+| 9      | Php Intelligence                            |
+| 10     | Codesnap                                    |
+| 11     | Tabnine                                     |
+| 12     | Theme: "Night Owl" ( Or Any theme you like) |
+| 13     | Bracket Pair Colorizer 2 - CoenraadS        | colorizes matching opening and closing brackets |
+| 14     | Snipped - Jefferson Licet                   | Code Screenshots                                |
 
 
 **For PHP and Laravel**
