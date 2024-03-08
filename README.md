@@ -39,8 +39,7 @@
 | 13     | Laravel Create View                         | Create Laravel view using dot notation                       |
 | 14     | Laravel Blade Wrapper                       | Wrap Blade directives                                        |
 | 15     | DotENV                                      | Syntax highlighting for .env files                           |
-| 16     | ES Lint                                     |
-| 17     | MySQL - Database Client - Weijan Chen       |
+| 16     | MySQL - Database Client - Weijan Chen       |
 
 
 
