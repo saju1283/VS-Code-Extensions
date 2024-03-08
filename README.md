@@ -21,9 +21,9 @@
 
 > Note: If you don't want to install the extensions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extention which will also install all of those plugins as well.
 
-| SL No: | Plugins                                     |
-| ------ | ------------------------------------------- |
-| 1      | PHP Intelephense                            |
+| SL No: | Extension                                   | Objective                                 |
+| ------ | ------------------------------------------- |-------------------------------------------|
+| 1      | PHP Intelephense                            |                                           |
 | 2      | PHP DocBlocker                              |
 | 3      | PHP Namespace Resolver                      |
 | 4      | Laravel Blade Snippets                      |
