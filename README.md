@@ -2,9 +2,9 @@
 
 
 
-| SL No: | Plugins                                     |
-| ------ | ------------------------------------------- |
-| 1      | Prettier – Code formatter                   |
+| SL No: | Plugins                                     | Objective                                 |
+| ------ | ------------------------------------------- |-------------------------------------------|
+| 1      | Prettier – Code formatter                   |                                           |
 | 2      | Live Server                                 |
 | 3      | ESLint                                      |
 | 4      | Auto Close Tag                              |
