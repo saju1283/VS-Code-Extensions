@@ -14,15 +14,12 @@
 | 8      | Php Intelligence                            |
 | 9      | Codesnap                                    |
 | 10     | Tabnine                                     |
-| 19     | Theme: "Night Owl" ( Or Any theme you like) |
-| 20     | Material Icon Theme for Icons               |
-| 21     | Prettier - Code formatter                   |
-| 22     | MySQL - Database Client - Weijan Chen       |
+| 11     | Theme: "Night Owl" ( Or Any theme you like) |
 
 
-**For Laravel**
+**For PHP and Laravel**
 
-> Note: If you don't want to install the extentions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extention which will also install all of those plugins as well.
+> Note: If you don't want to install the extensions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extention which will also install all of those plugins as well.
 
 | SL No: | Plugins                                     |
 | ------ | ------------------------------------------- |
@@ -42,12 +39,7 @@
 | 14     | Laravel Blade Wrapper                       |
 | 15     | DotENV                                      |
 | 16     | ES Lint                                     |
-| 17     | Auto Close Tag                              |
-| 18     | Auto Rename Tag                             |
-| 19     | Theme: "Night Owl" ( Or Any theme you like) |
-| 20     | Material Icon Theme for Icons               |
-| 21     | Prettier - Code formatter                   |
-| 22     | MySQL - Database Client - Weijan Chen       |
+| 17     | MySQL - Database Client - Weijan Chen       |
 
 
 
