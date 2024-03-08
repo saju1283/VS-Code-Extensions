@@ -32,3 +32,5 @@
 1. Operator Mono (Download Link: https://github.com/keyding/Operator-Mono/archive/refs/heads/master.zip )
 2. Fira Code ( Download Link: https://github.com/tonsky/FiraCode/releases/download/6.2/Fira_Code_v6.2.zip )
 3. Dank Mono
+
+**Source:** https://github.com/prince-noman/php-developers-environment-setup
