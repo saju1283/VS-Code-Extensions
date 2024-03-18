@@ -1,23 +1,18 @@
 # VS-Code-Extensions
 
-
-
-| SL No: |Extension                                    | Objective                                 |
-| ------ | ------------------------------------------- |-------------------------------------------|
-| 1      | Prettier – Code formatter                   |                                           |
-| 2      | Live Server                                 |
-| 3      | Auto Close Tag                              |
-| 4      | Auto tag rename                             |
-| 5      | Beautify                                    |
-| 6      | Material Icon                               |
-| 7      | vscode-icons 
-| 8      | Php Intelligence                            |
-| 9      | Codesnap                                    |
-| 10     | Tabnine                                     |
-| 11     | Theme: "Night Owl" ( Or Any theme you like) |
-| 12     | Bracket Pair Colorizer 2 - CoenraadS        | colorizes matching opening and closing brackets |
-| 13     | Snipped - Jefferson Licet                   | Code Screenshots                                |
-| 14     | HTML CSS Support                            |                                                 |
+| SL No: |Extension                                        | Objective                                       |
+| ------ | ----------------------------------------------- |-------------------------------------------------|
+| 1      | Prettier – Code formatter                       |                                                 |
+| 2      | Live Server - Ritwick Dey                       |
+| 3      | Auto Close Tag  - Jun Hun                       |
+| 4      | Auto tag rename - Jun Han                       |
+| 5      | Beautify  - HookyQR                             |
+| 6      | Material Icon - Philipp Kief                    |
+| 7      | Codesnap  - adpyke                              | Code Screenshots
+| 8      | Tabnine   - TabNine                             |
+| 9      | Theme: "Night Owl" ( Or Any theme you like)     |
+| 10     | Bracket Pair Color DLW - Bracket Pair Color DLW | colorizes matching opening and closing brackets |                                |
+| 11     | HTML CSS Support - ecmel                        |                                                 |
 
 **For Javascript**
 
