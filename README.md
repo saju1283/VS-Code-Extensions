@@ -20,6 +20,13 @@
 | 14     | Snipped - Jefferson Licet                   | Code Screenshots                                |
 | 15     | HTML CSS Support                            |                                                 |
 
+**For Javascript**
+
+| SL No: |Extension                                    | Objective                                 |
+| ------ | ------------------------------------------- |-------------------------------------------|
+| 1      | ESLint – Microsoft                |                                           |
+
+
 
 **For PHP and Laravel**
 
