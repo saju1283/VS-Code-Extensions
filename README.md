@@ -20,17 +20,25 @@
 | ------ | ------------------------------------------- |-------------------------------------------|
 | 1      | ESLint – Microsoft                |                                           |
 
+**For PHP**
 
+| SL No: |Extension                                          | Objective                                 |
+| ------ | --------------------------------------------------|-------------------------------------------|
+| 1      | PHP Debug - xdebug.org (xdebug.org)               | For Code debugging                        |
+| 2      | PHP IntelliSense - Damjan Cvetko                  |                                           |
+| 3      | PHP Server - brapifra                             |                                           |
+| 4      | MySQL - Weijan Chen (database-client.com)         |                                           |
+| 5      | PHP Intelephense - (Ben Mewburn) intelephense.com |                                           |
+| 6      | Code Spell Checker - Street Side Software (streetsidesoftware.com) |                          |
+| 7      | PHP DocBlocker                                                     |
+| 8      | PHP Namespace Resolver                                             |
 
-**For PHP and Laravel**
+**For Laravel**
 
 > Note: If you don't want to install the extensions from No. 4 to 15 one by one, then you can just install this `Laravel Extension Pack` extention which will also install all of those plugins as well.
 
 | SL No: |Extension                                    |Objective                                                     |
 | ------ | ------------------------------------------- |------------------------------------------------------------  |
-| 1      | PHP Intelephense                            |                                                              |
-| 2      | PHP DocBlocker                              |
-| 3      | PHP Namespace Resolver                      |
 | 4      | Laravel Blade Snippets                      | Provides snippets and syntax highlightingfor blade templates |
 | 5      | Laravel Snippets                            | Provides snippets for Laravel                                |
 | 6      | Laravel Artisan                             | Run Laravel Artisan commands                                 |
@@ -43,7 +51,7 @@
 | 13     | Laravel Create View                         | Create Laravel view using dot notation                       |
 | 14     | Laravel Blade Wrapper                       | Wrap Blade directives                                        |
 | 15     | DotENV                                      | Syntax highlighting for .env files                           |
-| 16     | MySQL - Database Client - Weijan Chen       |
+
 
 
 
